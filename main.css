@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Kodchasan:wght@400;600;700&display=swap");
+body {
+    font-family: "kodchasan";
+    background: url(images/fondo\ tienda.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#iconos{
+    padding: 0 10px;
+}
+
+.galeria img:hover {
+    border: 5px 5px none;
+    padding: 0 10px;
+    border-radius: 30px;
+
+}
+#galeria{
+    border-radius: 30px;
+}
+.galeria{
+    border-radius: 30px;
+}
+
+
+
